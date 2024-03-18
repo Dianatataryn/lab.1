@@ -1,0 +1,116 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #655d65;
+    color: #000000;
+    padding: 10px 0;
+    text-align: center;
+}
+.custom-header {
+    width: 100%; /* Розширити блок на всю ширину */
+    padding: 10px; /* Додати відступи від країв */
+    background-color: #f0f0f0; /* Задати колір фону */
+}
+
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.author-info img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.navbar {
+    background-color: #000000;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.tasks-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.tasks-list li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.tasks-list li:last-child {
+    margin-right: 0;
+}
+
+.tasks-list li a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.task {
+    background-color: #6e616d;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 600px;
+}
+
+.task h2 {
+    margin-top: 0;
+    color: #ffffff;
+}
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    background-color: #fefefe;
+}
+
+h1 {
+    text-align: center;
+}
+
+.input-container {
+    margin-bottom: 20px;
+}
+
+.input-field {
+    padding: 10px;
+    width: calc(100% - 20px);
+    border: 1px solid #000000;
+    border-radius: 5px;
+}
+
+.btn {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #0056b3;
+}
+
+
+
+header {
+    background-color: #4f4b4f;
+    color: #000000;
+    padding: 20px 0;
+    text-align: center;
+}
